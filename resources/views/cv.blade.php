@@ -1,6 +1,6 @@
 @extends('layouts.main')
 
-@section('title', 'CV - Wahyu Kurniawan')
+@section('title', 'CV - muhammad Hikamudin')
 
 @section('content')
 
